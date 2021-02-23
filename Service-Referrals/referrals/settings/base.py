@@ -23,7 +23,7 @@ APPLICATION_NAME = 'referrals'
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # https://docs.djangoproject.com/en/3.0/ref/settings/#secret-key
-SECRET_KEY = '+3*tp4^@m6(ebgq3y!!@xbwwnr4jvh7_t12g-6dta2d6&*(dho'
+SECRET_KEY = ''
 
 # https://docs.djangoproject.com/en/3.0/ref/settings/#debug
 DEBUG = True
